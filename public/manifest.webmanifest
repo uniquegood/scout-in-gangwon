@@ -1,0 +1,9 @@
+{
+  "name": "2026 더 스카우트 in 강원 | The Scout in Gangwon",
+  "short_name": "스카우트 in 강원",
+  "description": "강원의 자연을 탐색하며 미션을 수행하는 도시형 미션 플레이",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#2563eb"
+}
